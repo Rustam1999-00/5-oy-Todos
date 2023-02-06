@@ -1,0 +1,30 @@
+body {
+   background-color: rgb(103, 241, 39);
+  }
+  
+  form {
+    display: flex;
+    justify-content: center;
+  }
+
+  .list-group {
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  .form-check-input {
+    cursor: pointer;
+  }
+  
+  .input-group {
+    width: 100%;
+    max-width: 500px;
+  }
+  
+  i {
+    cursor: pointer;
+  }
+  
+  .container {
+    margin-top: 80px !important;
+}
